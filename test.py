@@ -1,1 +1,1 @@
-print ("UEK");
+print("UEK")
